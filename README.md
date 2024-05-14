@@ -1,5 +1,5 @@
-# Fine-Tuning-Language-Models
-Fine-Tuning Language Models for Enhanced E-Commerce Product Summarization
+# Fine-Tuning-Large-Language-Models
+Fine-Tuning LLMs for Enhanced E-Commerce Product Summarization
 
 **Overview**
 
